@@ -107,15 +107,15 @@ img {
     font-weight: 700;
   }
 }
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 340px) {
   .siteheader_content {
-    width: 380px;
+    width: 340px;
     height: 510px;
     flex-direction: column;
     text-align: left;
   }
   .siteheader_content_title {
-    width: 380px;
+    width: 340px;
     font-weight: 500;
     font-size: 40px;
     margin: 0px;
@@ -123,7 +123,7 @@ img {
     margin-bottom: 60px;
   }
   .siteheader_content_text {
-    width: 380px;
+    width: 340px;
     font-weight: 400;
     font-size: 14px;
     margin-left: 85px;
@@ -139,7 +139,7 @@ img {
     width: 0px;
   }
   .siteheader_content_box_img2 {
-    width: 380px;
+    width: 340px;
     margin-left: 75px;
   }
 }/*# sourceMappingURL=main.css.map */
