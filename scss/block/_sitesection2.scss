@@ -1,0 +1,122 @@
+.sitesection2_content{
+  width: 1108px;
+  height: 722px;
+}
+
+.sitesection2_content_title{
+  width: 687px;
+  height: 49px;
+  color: rgb(54, 55, 56);
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 32px;
+}
+
+.sitesection2_content_text{
+  width: 667px;
+  height: 41px;
+  color: rgb(107, 107, 108);
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+
+.sitesection2_content_item{
+  width: 687px;
+  height: 176px;
+  border-radius: 10px;
+  box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.12);
+  background: rgb(255, 255, 255);
+  margin-bottom: 16px;
+}
+
+.sitesection2_content_form_label{
+  width: 256px;
+  height: 23px;
+  color: rgb(54, 55, 56);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.sitesection2_content_text1{
+  width: 466px;
+  height: 41px;
+  color: rgb(107, 107, 108);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 24px;
+}
+
+.sitesection2_content_item_box{
+  margin-left: 96px;
+  padding-top: 40px;
+}
+
+.sitesection2_content_form_input{
+  margin-right: 37px;
+  margin-left: -50px;
+}
+
+
+
+
+
+@media screen and (max-width:690px) {
+  .sitesection2_content{
+    width: 690px;
+    height: 726px;
+    margin-top: 92px;
+  }
+  .sitesection2_content_title{
+    width: 690px;
+    height: 45px;
+    color: rgb(54, 55, 56);
+    font-size: 44px;
+    font-weight: 600;
+  }
+}
+
+@media screen and (max-width:380px) {
+  .sitesection2_content{
+    width: 380px;
+    height: 588px;
+  }
+  .sitesection2_content_title{
+    width: 380px;
+    height: 64px;
+    color: rgb(54, 55, 56);
+    font-size: 28px;
+    font-weight: 600;
+  }
+  .sitesection2_content_text{
+    width: 380px;
+    height: 64px;
+    color: rgb(107, 107, 108);
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .sitesection2_content_item{
+    width: 380px;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.12);
+    background: rgb(255, 255, 255);
+  }
+  .sitesection2_content_form_input{
+    margin-left: -65px;
+  }
+  .sitesection2_content_form_label{
+    width: 256px;
+    height: 21px;
+    color: rgb(54, 55, 56);
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .sitesection2_content_text1{
+    width: 265px;
+    height: 57px;
+    color: rgb(107, 107, 108);
+    font-size: 14px;
+    font-weight: 400;
+  }
+}
