@@ -88,15 +88,15 @@
 }
 
 
-@media screen and (max-width:345px) {
+@media screen and (max-width:380px) {
   .siteheader_content{
-    width: 345px;
+    width: 380px;
     height: 510px;
     flex-direction: column;
     text-align: left;
   }
   .siteheader_content_title{
-    width: 345px;
+    width: 380px;
     font-weight: 500;
     font-size: 40px;
     margin: 0px;
@@ -104,7 +104,7 @@
     margin-bottom: 60px;
   }
   .siteheader_content_text{
-    width: 345px;
+    width: 380px;
     font-weight: 400;
     font-size: 14px;
     margin-left: 85px;
@@ -120,7 +120,7 @@
     width: 0px;
   }
   .siteheader_content_box_img2{
-    width: 345px;
+    width: 380px;
     margin-left: 75px;
   }
 }
