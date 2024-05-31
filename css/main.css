@@ -119,28 +119,28 @@ img {
     font-weight: 500;
     font-size: 40px;
     margin: 0px;
-    margin-left: 75px;
+    margin-left: 85px;
     margin-bottom: 60px;
   }
   .siteheader_content_text {
     width: 345px;
     font-weight: 400;
     font-size: 14px;
-    margin-left: 75px;
+    margin-left: 85px;
     margin-bottom: 40px;
   }
   .siteheader_content_link {
     width: 125px;
     font-weight: 600;
     font-size: 14px;
-    margin-left: 75px;
+    margin-left: 85px;
   }
   .siteheader_content_box_img1 {
     width: 0px;
   }
   .siteheader_content_box_img2 {
     width: 345px;
-    margin-left: 75px;
+    margin-left: 85px;
   }
 }
 .sitesection_box {
