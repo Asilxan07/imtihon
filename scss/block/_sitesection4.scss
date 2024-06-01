@@ -86,7 +86,7 @@
     height: 1636px;
   }
   .sitesection4_content_list{
-    width: 690px;
+    width: 370px;
     height: auto;
     flex-direction: column;
   }
@@ -144,33 +144,28 @@
 @media screen and (max-width:380px) {
   .sitesection4_content{
     width: 380px;
-    height: 1421px;
-    border: 1px solid red;
+    height: auto;
   }
   .sitesection4_content_title{
-    width: 379px;
+    width: 344px;
     height: 29px;
     color: rgb(54, 55, 56);
     font-size: 28px;
     font-weight: 600;
   }
   .sitesection4_content_text{
-    width: 379px;
+    width: 344px;
     height: 62px;
     color: rgb(107, 107, 108);
     font-size: 15px;
     font-weight: 400;
   }
   .sitesection4_content_item{
-    width: 380px;
+    width: 345px;
     height: 394px;
-    margin-right: 310px;
-    border-radius: 10px;
-    box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.12);
-    background: rgb(255, 255, 255);
   }
   .sitesection4_content_item_img{
-    width: 380px;
+    width: 345px;
     height: 222px;
   }
   .sitesection4_content_item_title{
