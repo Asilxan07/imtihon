@@ -1,0 +1,241 @@
+.sitesection3_content{
+  width: 1200px;
+  height: 748px;
+  margin-top: 100px;
+  border: 1px solid;
+}
+
+.sitesection3_content_img{
+  width: 1040px;
+  height: 453px;
+  margin-left: 160px;
+}
+
+.sitesection3_content_img1{
+  width: 769px;
+  height: 453.5px;
+  margin: 0px;
+  position: relative;
+  bottom: 457px;
+}
+
+.sitesection3_content_item{
+  width: 447px;
+  height: 80px;
+  margin-bottom: 62px;
+  margin-left: 62px;
+  border: 1px solid;
+}
+
+.sitesection3_content_item_img{
+  width: 80px;
+  height: 80px;
+}
+
+.sitesection3_content_item_title{
+  width: 327px;
+  height: 21px;
+  color: rgb(54, 55, 56);
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 120px;
+  margin-top: -80px;
+  margin-bottom: 16px;
+}
+
+.sitesection3_content_item_text{
+  width: 291px;
+  height: 41px;
+  color: rgb(107, 107, 108);
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 120px;
+}
+
+.sitesection3_content_item1{
+  width: 447px;
+  height: 80px;
+  margin-left: 653px;
+  margin-bottom: 62px;
+  margin-top: -140px;
+  border: 1px solid;
+}
+
+.sitesection3_content_item2{
+  width: 447px;
+  height: 80px;
+  margin-bottom: 62px;
+  margin-left: 62px;
+  border: 1px solid;
+}
+
+.sitesection3_content_item3{
+  width: 447px;
+  height: 80px;
+  margin-left: 653px;
+  margin-bottom: 62px;
+  margin-top: -140px;
+  border: 1px solid;
+}
+
+.sitesection3_content_list{
+  position: relative;
+  bottom: 394px;
+}
+
+.sitesection3_content_title{
+  position: absolute;
+  width: 362px;
+  height: 109px;
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 600;
+  margin-top: -755px;
+  margin-left: 50px;
+}
+
+
+
+
+@media screen and (max-width:846px) {
+  .sitesection3_content{
+    width: 846px;
+    height: 928px;
+  }
+  .sitesection3_content_img{
+    width: 846px;
+    margin-left: auto;
+    height: 383px;
+  }
+  .sitesection3_content_img1{
+    width: 580.5px;
+    height: 383.5px;
+    margin-top: 70px;
+  }
+  .sitesection3_content_title{
+    width: 334px;
+    height: 100px;
+    color: rgb(255, 255, 255);
+    font-size: 44px;
+    font-weight: 600;
+    margin-top: -670px;
+  }
+  .sitesection3_content_item{
+    width: 530px;
+    height: 88px;
+    margin: 0px;
+    margin-bottom: 41px;
+    margin-left: 30px;
+  }
+  .sitesection3_content_item1{
+    width: 516px;
+    height: 88px;
+    margin: 0px;
+    margin-bottom: 41px;
+    margin-left: 30px;
+  }
+  .sitesection3_content_item2{
+    width: 516px;
+    height: 88px;
+    margin: 0px;
+    margin-bottom: 41px;
+    margin-left: 30px;
+  }
+  .sitesection3_content_item3{
+    width: 516px;
+    height: 88px;
+    margin: 0px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+  }
+  .sitesection3_content_item_title{
+    width: 327px;
+    height: 21px;
+    color: rgb(54, 55, 56);
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .sitesection3_content_item_text{
+    width: 394px;
+    height: 41px;
+    color: rgb(107, 107, 108);
+    font-weight: 400;
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width:345px) {
+  .sitesection3_content{
+    width: 345px;
+    height: 518px;
+    margin-top: 250px;
+  }
+  .sitesection3_content_img{
+    width: 0px;
+  }
+  .sitesection3_content_img1{
+    width: 0px;
+  }
+  .sitesection3_content_title{
+    width: 345px;
+    height: 64px;
+    color: rgb(54, 55, 56);
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0px;
+    margin-top: -450px;
+    margin-left: 5px;
+  }
+  .sitesection3_content_item{
+    width: 337px;
+    height: 70px;
+    margin: 0px;
+    margin-bottom: 38px;
+    margin-left: 2.5px;
+  }
+  .sitesection3_content_item_img{
+    width: 52px;
+    height: 52px;
+  }
+  .sitesection3_content_item_title{
+    width: 269px;
+    height: 19px;
+    color: rgb(54, 55, 56);
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px;
+    margin-left: 68px;
+    margin-top: -50px;
+    margin-bottom: 5px;
+  }
+  .sitesection3_content_item_text{
+    width: 269px;
+    height: 39px;
+    color: rgb(107, 107, 108);
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0px;
+    margin-left: 68px;
+  }
+  .sitesection3_content_item1{
+    width: 337px;
+    height: 74px;
+    margin: 0px;
+    margin-bottom: 38px;
+    margin-left: 2.5px;
+  }
+  .sitesection3_content_item2{
+    width: 337px;
+    height: 74px;
+    margin: 0px;
+    margin-bottom: 38px;
+    margin-left: 2.5px;
+  }
+  .sitesection3_content_item3{
+    width: 337px;
+    height: 74px;
+    margin: 0px;
+    margin-bottom: 38px;
+    margin-left: 2.5px;
+  }
+}
