@@ -486,19 +486,19 @@ img {
   margin-left: 50px;
 }
 
-@media screen and (max-width: 846px) {
+@media screen and (max-width: 690px) {
   .sitesection3_content {
-    width: 846px;
+    width: 690px;
     height: 928px;
     margin-top: 100px;
   }
   .sitesection3_content_img {
-    width: 846px;
+    width: 690px;
     margin-left: auto;
     height: 383px;
   }
   .sitesection3_content_img1 {
-    width: 580.5px;
+    width: 500.5px;
     height: 383.5px;
     margin-top: 70px;
   }
@@ -574,6 +574,7 @@ img {
     margin: 0px;
     margin-top: -450px;
     margin-left: 5px;
+    margin-bottom: 50px;
   }
   .sitesection3_content_item {
     width: 367px;
@@ -581,6 +582,7 @@ img {
     margin: 0px;
     margin-bottom: 38px;
     margin-left: 2.5px;
+    margin-top: 50px;
   }
   .sitesection3_content_item_img {
     width: 52px;
