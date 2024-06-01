@@ -553,9 +553,9 @@ img {
     font-size: 16px;
   }
 }
-@media screen and (max-width: 345px) {
+@media screen and (max-width: 380px) {
   .sitesection3_content {
-    width: 345px;
+    width: 380px;
     height: 518px;
     margin-top: 250px;
   }
@@ -566,7 +566,7 @@ img {
     width: 0px;
   }
   .sitesection3_content_title {
-    width: 345px;
+    width: 380px;
     height: 64px;
     color: rgb(54, 55, 56);
     font-size: 28px;
@@ -576,7 +576,7 @@ img {
     margin-left: 5px;
   }
   .sitesection3_content_item {
-    width: 337px;
+    width: 367px;
     height: 70px;
     margin: 0px;
     margin-bottom: 38px;
@@ -607,21 +607,21 @@ img {
     margin-left: 68px;
   }
   .sitesection3_content_item1 {
-    width: 337px;
+    width: 367px;
     height: 74px;
     margin: 0px;
     margin-bottom: 38px;
     margin-left: 2.5px;
   }
   .sitesection3_content_item2 {
-    width: 337px;
+    width: 367px;
     height: 74px;
     margin: 0px;
     margin-bottom: 38px;
     margin-left: 2.5px;
   }
   .sitesection3_content_item3 {
-    width: 337px;
+    width: 367px;
     height: 74px;
     margin: 0px;
     margin-bottom: 38px;
