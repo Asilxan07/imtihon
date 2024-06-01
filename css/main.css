@@ -629,4 +629,141 @@ img {
     margin-bottom: 38px;
     margin-left: 2.5px;
   }
+}
+.sitesection4_content {
+  width: 1200px;
+  height: 618px;
+  margin-top: 100px;
+}
+
+.sitesection4_content_title {
+  width: 687px;
+  height: 49px;
+  color: rgb(54, 55, 56);
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 32px;
+}
+
+.sitesection4_content_text {
+  width: 667px;
+  height: 41px;
+  color: rgb(107, 107, 108);
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 52px;
+}
+
+.sitesection4_content_item {
+  width: 393px;
+  height: 439px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.12);
+  background: rgb(255, 255, 255);
+}
+
+.sitesection4_content_list {
+  width: 1200px;
+  height: 439px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sitesection4_content_item_img {
+  width: 393px;
+  height: 247px;
+  margin-bottom: 24px;
+}
+
+.sitesection4_content_item_title {
+  width: 327px;
+  height: 21px;
+  color: rgb(54, 55, 56);
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 25px;
+  margin-bottom: 16px;
+}
+
+.sitesection4_content_item_text {
+  width: 291px;
+  height: 41px;
+  color: rgb(107, 107, 108);
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 25px;
+  margin-bottom: 32px;
+}
+
+.sitesection4_content_item_text1 {
+  width: 92px;
+  height: 17px;
+  color: rgb(54, 55, 56);
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.ssss {
+  width: 0px;
+}
+
+@media screen and (max-width: 690px) {
+  .sitesection4_content {
+    width: 690px;
+    height: 1636px;
+  }
+  .sitesection4_content_list {
+    width: 690px;
+    height: auto;
+    flex-direction: column;
+  }
+  .sitesection4_content_title {
+    width: 687px;
+    height: 45px;
+    color: rgb(54, 55, 56);
+    font-size: 44px;
+    font-weight: 600;
+  }
+  .sitesection4_content_text {
+    width: 667px;
+    height: 41px;
+    color: rgb(107, 107, 108);
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .sitesection4_content_item {
+    width: 690px;
+    height: 470px;
+    margin-bottom: 32px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.12);
+    background: rgb(255, 255, 255);
+  }
+  .sitesection4_content_item_img {
+    width: 690px;
+    height: 300px;
+  }
+  .sitesection4_content_item_title {
+    width: 327px;
+    height: 21px;
+    color: rgb(54, 55, 56);
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .sitesection4_content_item_text {
+    width: 509px;
+    height: 16px;
+    color: rgb(107, 107, 108);
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .sitesection4_content_item_text1 {
+    width: 92px;
+    height: 17px;
+    color: rgb(54, 55, 56);
+    font-size: 16px;
+    font-weight: 600;
+  }
 }/*# sourceMappingURL=main.css.map */
