@@ -1,0 +1,101 @@
+.sitesection4_content{
+  width: 1200px;
+  height: 750px;
+}
+
+.sitesection5_content_title{
+  width: 687px;
+  height: 49px;
+  color: rgb(54, 55, 56);
+  font-size: 48px;
+  font-weight: 600;
+  margin-top: -50px;
+}
+
+.sitesection5_content_item{
+  margin-top: 48px;
+  margin-left: 49px;
+  width: 1100px;
+  height: 245px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.12);
+  background: rgb(255, 255, 255);
+  display: flex;
+}
+
+.sitesection5_content_item_img{
+  width: 331px;
+  height: 181px;
+  margin-left: 96px;
+  margin-top: 32px;
+  border-radius: 4px;
+  background: url(6-Effective-Onboarding-Tips-for-New-SEO-Customers);
+}
+.sitesection5_content_item_box{
+  margin-top: 32px;
+  margin-left: 56px;
+}
+
+.sitesection5_content_item_box_title{
+  width: 258px;
+  height: 20px;
+  color: rgb(54, 55, 56);
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 48px;
+}
+
+.sitesection5_content_item_box_text{
+  width: 568px;
+  height: 88px;
+  color: rgb(107, 107, 108);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+
+
+
+@media screen and (max-width:690px) {
+  .sitesection5_content{
+    width: 690px;
+    height: 860px;
+    margin-top: 1000px;
+  }
+  .sitesection5_content_item_img{
+    width: 0px;
+  }
+  .sitesection5_content_title{
+    width: 687px;
+    height: 45px;
+    color: rgb(54, 55, 56);
+    font-size: 44px;
+    font-weight: 600;
+  }
+  .sitesection5_content_item{
+    width: 690px;
+    height: 245px;
+    margin: 0px;
+    margin-bottom: 32px;
+    margin-top: 40px;
+  }
+  .sitesection5_content_item_box_title{
+    width: 278.92px;
+    color: rgb(54, 55, 56);
+    height: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 0px;
+    margin-left: -60px;
+    margin-bottom: 60px;
+  }
+  .sitesection5_content_item_box_text{
+    width: 531.9px;
+    height: 89px;
+    color: rgb(107, 107, 108);
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: -60px;
+  }
+}
