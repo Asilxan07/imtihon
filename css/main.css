@@ -955,4 +955,129 @@ img {
     margin: 0px;
     margin-left: -110px;
   }
+}
+.sitefooter_content {
+  width: 1200px;
+  height: 504px;
+  margin-top: 250px;
+}
+
+.sitefooter_title {
+  width: 687px;
+  height: 49px;
+  color: rgb(54, 55, 56);
+  font-weight: 600;
+  font-size: 48px;
+}
+
+.sitefooter_content_block_item {
+  width: 232px;
+  height: 43px;
+  margin-bottom: 44px;
+}
+
+.sitefooter_content_block {
+  margin-top: 150px;
+}
+
+.sitefooter_content_block_item_box_img {
+  width: 23.3px;
+  height: 32px;
+}
+
+.sitefooter_content_block_item_box_img1 {
+  width: 28px;
+  height: 17.76px;
+}
+
+.sitefooter_content_block_item_box_img2 {
+  width: 28px;
+  height: 28px;
+}
+
+.sitefooter_content_block_item_box_img3 {
+  width: 28px;
+  height: 28px;
+}
+
+.sitefooter_content_box01 {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sitefooter_content_block_item {
+  width: 232px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+}
+
+.sitefooter_content_block_item_box1_title {
+  width: 172px;
+  height: 15px;
+  color: rgb(107, 107, 108);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.sitefooter_content_block_item_box1_text {
+  width: 165px;
+  height: 20px;
+  color: rgb(54, 55, 56);
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.sitefooter_content_block_item_box1 {
+  margin-left: 60px;
+}
+
+.sitefooter_content_box {
+  width: 794px;
+  border-radius: 5px;
+  height: 303px;
+  margin-top: 150px;
+  background: rgb(249, 249, 251);
+}
+
+.sitefooter_content_box_item {
+  width: 674px;
+  height: 30.5px;
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.sitefooter_content_box_item_box_text {
+  width: 175px;
+  height: 15px;
+  color: rgb(107, 107, 108);
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 50px;
+}
+
+.sitefooter_content_box_item_box1_text {
+  width: 283px;
+  height: 15px;
+  color: rgb(54, 55, 56);
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 50px;
+}
+
+.sitefooter_content_box_item1 {
+  width: 674px;
+  height: 35px;
+  display: flex;
+}
+
+.sitefooter_content_box_item_box1_text1 {
+  width: 443px;
+  height: 35px;
+  color: rgb(54, 55, 56);
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 50px;
 }/*# sourceMappingURL=main.css.map */
